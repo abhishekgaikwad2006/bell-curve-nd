@@ -1,1 +1,2 @@
-# bell-curve-nd
+# Normal-Distribution
+solution for c108
